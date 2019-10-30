@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/smirart/.platformio/penv/bin:/Users/smirart/.platformio/penv:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/Wireshark.app/Contents/MacOS:/opt/X11/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
